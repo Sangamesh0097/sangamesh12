@@ -6,6 +6,12 @@ public class Sangamesh {
 			System.out.println("hiiii");
 	
 			System.out.println("hiiii");
+			
+			System.out.println("hiiii");
+			
+			System.out.println("hiiii");
+			
+			System.out.println("hiiii");
 
 	}
 
