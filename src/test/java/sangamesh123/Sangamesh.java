@@ -5,7 +5,8 @@ public class Sangamesh {
 		//https://github.com/Sangamesh0097/sangamesh12.git
 			System.out.println("hiiii");
 	
-			System.out.println("hiiii");
+			//System.out.println("hiiii");
+		System.out.println("Good Boy");
 
 	}
 
